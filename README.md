@@ -1,11 +1,14 @@
 # GAN
 
-**Generative Adversarial Nets - NIPS 2014**
+### NIPS2014
 
-- paper: [https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
-- github: [https://github.com/goodfeli/adversarial](https://github.com/goodfeli/adversarial)
-- github: [https://github.com/aleju/cat-generator](https://github.com/aleju/cat-generator)
-- google: [https://scholar.google.de/scholar?hl=en&as_sdt=1%2C5&q=Generative+Adversarial+Nets&btnG=](https://scholar.google.de/scholar?hl=en&as_sdt=1%2C5&q=Generative+Adversarial+Nets&btnG=)
+* Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio
+  "Generative Adversarial Nets"
+  [[paper](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)]
+  [[google](https://scholar.google.de/scholar?hl=en&as_sdt=1%2C5&q=Generative+Adversarial+Nets&btnG=)]
+
+
+### 2015
 
 **Unsupervised and Semi-supervised Learning with Categorical Generative Adversarial Networks - 2015**
 
